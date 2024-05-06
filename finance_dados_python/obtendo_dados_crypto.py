@@ -1,6 +1,6 @@
 from cryptocmd import CmcScraper
 
-scraper = CmcScraper("ETH")
+scraper = CmcScraper("RSR")
 
 dados_crypto = scraper.get_dataframe()
 
