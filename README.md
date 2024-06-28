@@ -1,1 +1,1 @@
-Neste estudo estou usando python e pandas para a coleta de dados
+ coleta de dados do mercado financeiro utilizando python e pandas 
